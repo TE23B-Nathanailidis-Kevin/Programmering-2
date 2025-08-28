@@ -12,3 +12,4 @@ C:\Users\Kevin\OneDrive - Academedia\Documents\Programmering 2\Repetition-av-pro
 C:\Users\Kevin\OneDrive - Academedia\Documents\Programmering 2\Repetition-av-prog1\obj\Debug\net9.0\Repetition-av-prog1.pdb
 C:\Users\Kevin\OneDrive - Academedia\Documents\Programmering 2\Repetition-av-prog1\obj\Debug\net9.0\Repetition-av-prog1.genruntimeconfig.cache
 C:\Users\Kevin\OneDrive - Academedia\Documents\Programmering 2\Repetition-av-prog1\obj\Debug\net9.0\ref\Repetition-av-prog1.dll
+c:\Users\Kevin\OneDrive - Academedia\Documents\Programmering 2\Repetition-av-prog1\obj\Debug\net9.0\Repetition-av-prog1.sourcelink.json

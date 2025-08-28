@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kevin\\OneDrive - Academedia\\Documents\\Programmering 2\\Repetition-av-prog1\\Repetition-av-prog1.csproj": {}
+    "c:\\Users\\Kevin\\OneDrive - Academedia\\Documents\\Programmering 2\\Repetition-av-prog1\\Repetition-av-prog1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kevin\\OneDrive - Academedia\\Documents\\Programmering 2\\Repetition-av-prog1\\Repetition-av-prog1.csproj": {
+    "c:\\Users\\Kevin\\OneDrive - Academedia\\Documents\\Programmering 2\\Repetition-av-prog1\\Repetition-av-prog1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kevin\\OneDrive - Academedia\\Documents\\Programmering 2\\Repetition-av-prog1\\Repetition-av-prog1.csproj",
+        "projectUniqueName": "c:\\Users\\Kevin\\OneDrive - Academedia\\Documents\\Programmering 2\\Repetition-av-prog1\\Repetition-av-prog1.csproj",
         "projectName": "Repetition-av-prog1",
-        "projectPath": "C:\\Users\\Kevin\\OneDrive - Academedia\\Documents\\Programmering 2\\Repetition-av-prog1\\Repetition-av-prog1.csproj",
+        "projectPath": "c:\\Users\\Kevin\\OneDrive - Academedia\\Documents\\Programmering 2\\Repetition-av-prog1\\Repetition-av-prog1.csproj",
         "packagesPath": "C:\\Users\\Kevin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kevin\\OneDrive - Academedia\\Documents\\Programmering 2\\Repetition-av-prog1\\obj\\",
+        "outputPath": "c:\\Users\\Kevin\\OneDrive - Academedia\\Documents\\Programmering 2\\Repetition-av-prog1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kevin\\AppData\\Roaming\\NuGet\\NuGet.Config"
