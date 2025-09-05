@@ -15,8 +15,10 @@ Console.Clear();
 
 for (int i = 0; i < names.Count && i < points.Count; i++)
 {
-    Console.WriteLine($"{i + 1}) {names[i]} har {points[1]} poäng");
+    Console.WriteLine($"{i + 1}) {names[i]} har {points[i]} poäng");
 }
+
+Console.WriteLine("Gå häng");
 
 // foreach (string name in names)
 // {
