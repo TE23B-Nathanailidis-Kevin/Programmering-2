@@ -18,6 +18,12 @@ Window();
 
 static void Window()
 {
-    Console.WriteLine("hello");
+    Console.WriteLine("""
+       _.-;;-._
+      '-..-'|   ||   |
+      '-..-'|_.-;;-._|
+      '-..-'|   ||   |
+      '-..-'|_.-''-._|
+    """);
     Console.ReadLine();
 }
