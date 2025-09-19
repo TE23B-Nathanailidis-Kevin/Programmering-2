@@ -13,17 +13,52 @@
 // martin.Hp++;
 
 // martin.Hp -= micke.Damage;
-Window();
+// Window();
 
 
-static void Window()
+// static void Window()
+// {
+//     Console.WriteLine("""
+//        _.-;;-._
+//       '-..-'|   ||   |
+//       '-..-'|_.-;;-._|
+//       '-..-'|   ||   |
+//       '-..-'|_.-''-._|
+//     """);
+//     Console.ReadLine();
+// }
+
+// Typewriter("Hej");
+// Console.ReadLine();
+// void Typewriter(string text)
+// {
+//   for (int i = 0; i < text.Length; i++)
+//   {
+//     Console.WriteLine(text[i]);
+//     Thread.Sleep(1000);
+//   }
+// }
+
+string s = GetScrambled();
+Console.WriteLine(s);
+
+static string GetScrambled()
 {
-    Console.WriteLine("""
-       _.-;;-._
-      '-..-'|   ||   |
-      '-..-'|_.-;;-._|
-      '-..-'|   ||   |
-      '-..-'|_.-''-._|
-    """);
-    Console.ReadLine();
+  string text = Console.ReadLine();
+  string scrambled = "";
+
+  for (int i = 0; i < text.Length; i++)
+  {
+    int r = Random.Shared.Next(2);
+    if (r == 0)
+    {
+      scrambled += text[i].ToString().ToLower();
+    }
+    if (r == 1)
+    {
+      scrambled += text[i].ToString().ToUpper();
+    }
+    
+  }
+  return scrambled;
 }
