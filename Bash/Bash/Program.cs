@@ -42,6 +42,8 @@
 string s = GetScrambled();
 Console.WriteLine(s);
 
+Console.ReadLine();
+
 static string GetScrambled()
 {
   string text = Console.ReadLine();
@@ -58,7 +60,7 @@ static string GetScrambled()
     {
       scrambled += text[i].ToString().ToUpper();
     }
-    
+
   }
   return scrambled;
 }
