@@ -26,8 +26,8 @@ public class Tamagotchi
     public void Hi()
     {
       
-        int wordNummer = Random.Shared.Next(words.Count);
-        Console.WriteLine($" [{Name}] says: {words[wordNummer]}");
+        int wordNumber = Random.Shared.Next(words.Count);
+        Console.WriteLine($" [{Name}] says: {words[wordNumber]}");
         ReduceBoredom();
     }
 
